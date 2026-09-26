@@ -1,0 +1,12 @@
+{
+  "test.txt": {
+    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "replicas": 3,
+    "nodes": [
+      "node1",
+      "node2",
+      "node3"
+    ],
+    "stored_at": "2026-09-25 14:03:59.517408"
+  }
+}
